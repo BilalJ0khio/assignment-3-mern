@@ -1,0 +1,17 @@
+h1[capital-text] {
+  text-transform: capitalize;
+}
+
+[main-nav] {
+  list-style: none;
+  display: inline-flex;
+  box-shadow: rgba(99, 99, 99, 0.5) 0px 2px 8px 0px;
+  gap: 2rem;
+  padding: 1rem;
+}
+
+[main-nav] a {
+  text-decoration: none;
+  text-transform: capitalize;
+  font-size: 1.2rem;
+}
